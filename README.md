@@ -1,4 +1,7 @@
-# MockUps
+# YuGiOh Website
+
+
+## MockUps
 
 ![mock1](https://user-images.githubusercontent.com/82502472/123206210-fc356100-d4c3-11eb-8665-1c4b66c8f530.png)
 ![mock2](https://user-images.githubusercontent.com/82502472/123206211-fd668e00-d4c3-11eb-843e-6145060489a3.png)
